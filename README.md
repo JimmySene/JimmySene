@@ -11,7 +11,7 @@ I'm also working on a stable version of my **epic Discord Bot 🤖** with **Node
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, ts, react, angular, vue, vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,vite" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ I'm also working on a stable version of my **epic Discord Bot 🤖** with **Node
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node, express, discordjs, php, symfony, ruby, rails, mysql, postgres, mongodb, redis" />
+    <img src="https://skillicons.dev/icons?i=node,express,discordjs,php,symfony,ruby,rails,mysql,postgres,mongodb,redis" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I'm also working on a stable version of my **epic Discord Bot 🤖** with **Node
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode, git, github, gitlab, docker, discord, bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,discord,bash" />
   </a>
 </p>
 
