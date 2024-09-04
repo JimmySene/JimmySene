@@ -1,10 +1,8 @@
-# <Jimmy Sené (J.S) /> - Welcome to my GitHub page !
+# <Jimmy Sené />
 
-Like my name say, to be a JavaScript dev was my clear path. 😂  
-Seriously, I am a **french IT teacher 👨🏻‍🏫👨🏻‍💻**.  
-I work as **freelance** everywhere in France and border countries. 🧳
+Consultant formateur de plusieurs années d'expérience dans le domaine du développement web, du devops et de l'automatisation des tests. 🧑🏻‍💻
 
-<a href="https://fr.linkedin.com/in/jimmy-sene">Contact me on LinkedIn</a> if you have some propositions.
+<a href="https://www.linkedin.com/in/jimmy-sene/">Contactez-moi via LinkedIn</a> pour toute demande. 😉
 
 ## Front skills
 
@@ -18,7 +16,7 @@ I work as **freelance** everywhere in France and border countries. 🧳
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,php,symfony,ruby,rails,mysql,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,php,symfony,ruby,rails,mysql,postgres,sequelize,mongodb,redis" />
   </a>
 </p>
 
@@ -26,6 +24,6 @@ I work as **freelance** everywhere in France and border countries. 🧳
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,discord,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,jest,vitest,cypress,selenium,docker,kubernetes,discord,bash" />
   </a>
 </p>
